@@ -1,0 +1,1 @@
+{"status_code": 200, "advisory_score": 3.4, "message": "Egypt has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Egypt.", "last_updated": "2024-02-22 08:21:11"}
